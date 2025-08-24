@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #fff;
+  color: #212529;
   position: relative;
   background: transparent;
 }
@@ -18,8 +18,9 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #0a192f;
+  background: #010e1b;
   background-size: cover;
+  background-color: #fff;
   left: 0;
   right: 0;
   top: 0;
@@ -33,11 +34,11 @@ body::before {
 }
 
 a {
-  color: #ff00ff;
+  color: #0056b3;
 }
 
 a:hover {
-  color: #ff00ff;
+  color: #0056b3;
   text-decoration: none;
 }
 
