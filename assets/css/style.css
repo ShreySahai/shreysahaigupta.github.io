@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #010e1b;
+  color: #fff;
   position: relative;
   background: transparent;
 }
@@ -20,7 +20,7 @@ body::before {
   position: fixed;
   background: #212529;
   background-size: cover;
-  background-color: #fff;
+  background-color: #010e1b;
   left: 0;
   right: 0;
   top: 0;
